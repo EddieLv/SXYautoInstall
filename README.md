@@ -1,21 +1,27 @@
 SXYautoInstall: 
 ====
 
-用于解决：
+📦 功能概述
+此工具旨在解决 R 包安装过程中的常见问题：
 
-1.来源于GitHub的R包无法下载；
+🔧 核心功能
+GitHub 源安装问题 - 处理从 GitHub 下载 R 包时的网络和依赖问题
 
-2.CRAN和Bioconductor上R包的自动识别和安装；
+智能包源识别 - 自动识别并正确处理来自不同源的 R 包：
 
-3.版本混乱 + 编译失败 + 系统库缺失。
+CRAN（官方仓库）
 
-Used to solve problems:
+Bioconductor（生物信息学仓库）
 
-1.R packages from GitHub cannot be downloaded.
+GitHub（开发版本）
 
-2.Automatic identification and installation of R packages on CRAN and Bioconductor.
+综合问题解决 - 一站式处理安装过程中的多种问题
 
-3.Version inconsistencies + compilation failures + missing system libraries.
+🛠️ 解决的问题
+问题类型	具体表现	解决方案
+版本混乱	多版本冲突、依赖不匹配	自动版本检测与协调
+编译失败	源代码编译错误、编译器缺失	预编译检查与依赖安装
+系统库缺失	缺少系统级依赖库	自动检测并安装系统依赖
 
 
 ## 1 安装数信院SXYautoInstall包（Install the SXYautoInstall package）
