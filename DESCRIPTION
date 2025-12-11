@@ -1,0 +1,19 @@
+Package: SXYautoInstall
+Title: Automatic Installation of R Packages from CRAN, Bioconductor and
+        GitHub
+Version: 0.1.1
+Authors@R: person(given = "SXY", family = "SXY", email = "shuxinyundongzi@sxycloud.vip", role = c("aut", "cre"))
+Description: This package provides an automated way to install R packages by 
+    automatically identifying their sources (CRAN, Bioconductor, or GitHub). 
+    It supports custom mirror configuration for CRAN and Bioconductor to 
+    accelerate installation, and includes prompt information for cloud server.
+License: MIT
+Encoding: UTF-8
+Depends: R (>= 4.0.0)
+Imports: BiocManager, rlang
+Suggests: devtools (>= 2.4.0), testthat (>= 3.0.0)
+RoxygenNote: 7.3.3
+NeedsCompilation: no
+Packaged: 2025-12-10 09:09:20 UTC; h3014
+Author: SXY SXY [aut, cre]
+Maintainer: SXY SXY <shuxinyundongzi@sxycloud.vip>
