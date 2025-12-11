@@ -47,7 +47,7 @@ SXY_install_package_auto("limma")
 
 🚀 SXY自建cran镜像源: http://sxygptcloud.com:6003/cran
 
-🚀 SXY自建bioconductor镜像源(包含bioconductor官方3.9-3.22完整版本，清华镜像都不具备): http://sxygptcloud.com:6004/bioconductor
+🚀 SXY自建bioconductor镜像源(包含bioconductor官方3.9-3.22完整版本，99%国内镜像都没这么全): http://sxygptcloud.com:6004/bioconductor
 
 ```{r eval = FALSE}
 #For example
