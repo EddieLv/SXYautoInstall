@@ -41,7 +41,7 @@ SXY_install_package_auto("limma")
 
 ### 2.2 使用CRAN和Bioconductor国内镜像（CRAN and Bioconductor mirrors）
 
-数信云为生信初学者们搭建了CRAN和Bioconducto国内镜像，下载速度高达100MB/s，但是由于带宽价格高昂，目前仅限数信院服务器用户使用！
+数信云为生信初学者们搭建了CRAN和Bioconducto国内镜像，下载速度高达500MB/s，但是由于带宽价格高昂，目前仅限数信院服务器用户使用！
 
 这是使用数信云生信镜像的教程https://book.sxycloud.com/C3/C3.1.html
 
