@@ -1,7 +1,7 @@
 SXYautoInstall: 
 ====
 
-📦 功能概述
+🚀 功能概述
 此工具旨在解决 R 包安装过程中的常见问题：
 
 🔧 核心功能
@@ -49,16 +49,14 @@ SXY_install_package_auto(pkg_name = "dplyr", cran_mirror = "https://mirrors.tuna
 SXY_install_package_auto(pkg_name = "limma", cran_mirror = "https://mirrors.westlake.edu.cn/CRAN/", bioc_mirror = "https://mirrors.westlake.edu.cn/bioconductor/")
 ```
 
-##  🚀 安装来自github的R包（R packages from GitHub）
+## 3 安装来自github的R包（R packages from GitHub）
 
 ```{r eval = FALSE}
 #For example（Author's Name/Package Name）
 SXY_install_package_auto("dviraran/xCell")
 ```
 
-##  示例过程（Example process）
+##  安装并使用本软件的示例过程（Example process）
+<img width="1649" height="776" alt="3f1268aa63b032a1586a1ce37791731b" src="https://github.com/user-attachments/assets/5a4f15b8-89ad-4cd1-9cdf-04d91966853b" />
 
-![](https://files.mdnice.com/user/101751/fd44e0d5-5bfe-4896-9318-0ba7683feb46.png)
-
-
-![Uploading d47e0b505cdf6ca977e6e2023819edca.png…]()
+本项目为开源项目，欢迎大家在issues提交建议和bug！！！
